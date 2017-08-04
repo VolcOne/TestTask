@@ -1,16 +1,16 @@
-Source/.vs/
-Source/artifacts/
+*/.vs/
+*/artifacts/
 **/bin/
 **/obj/
 project.lock.json
 project.fragment.lock.json
-Source/packages/
+**/packages/
 **/*.vsp
 **/*.min.*
 Artifacts/
 **/node_modules/
 **/typings/
-Source/run/*
+*/run/*
 
 # Ignore logs 
 **/[Ll]ogs/
